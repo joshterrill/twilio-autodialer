@@ -1,0 +1,32 @@
+{
+  "name": "twilio-autodialer",
+  "version": "0.0.1",
+  "description": "an autodialer written in nodejs using the twilio api",
+  "main": "dial.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/joshuaterrill/twilio-autodialer.git"
+  },
+  "keywords": [
+    "twilio",
+    "autodialer",
+    "robodialer",
+    "call",
+    "center"
+  ],
+  "author": "Joshua Terrill <joshterrill.dev@gmail.com> (http://joshuaterrill.com/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/joshuaterrill/twilio-autodialer/issues"
+  },
+  "homepage": "https://github.com/joshuaterrill/twilio-autodialer",
+  "dependencies": {
+    "twilio": "^1.11.1"
+  },
+  "devDependencies": {
+    "twilio": "^1.11.1"
+  }
+}
