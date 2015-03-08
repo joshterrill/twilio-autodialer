@@ -10,7 +10,7 @@ npm install
 
 ### setting up a twiml app
 1. Login to twilio and go to https://www.twilio.com/user/account/apps
-2. Create a twiml app and point the HTTP post voice request URL to http://yourserver.com/twilio-autodial.xml
+2. Create a twiml app and point the HTTP post voice request URL to http://yourserver.com/say.xml
 3. Save it and get your applicationSid, accountSid, and authToken
 
 ### configuring the app
